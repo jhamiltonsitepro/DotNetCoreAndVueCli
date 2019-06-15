@@ -4,15 +4,6 @@ This is meant to be a demo for using .NET Core 2.1 and Vue Cli in a SPA template
 
 [project]: https://github.com/ow-en/ASPCoreVueCLITemplate
 
-# Vue-cli & ASP.NET Core 2.1 with Vue.js + TypeScript and Vuetify
-
-## To Install `dotnet new` template:
-
-- clone repository
-- within CLI, run `dotnet new -i <path to repository folder where .template.config is located>`
-- to confirm template was installed, run `dotnet new -l`
-- to scaffold a new project using this template, run `dotnet new VueCLINetCoreEFCore -n <nameofproject> -o <nameofproject>`
-
 ## To Install/Run Repository:
 
 - clone repo and run `dotnet restore`
