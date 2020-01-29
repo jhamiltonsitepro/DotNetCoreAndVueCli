@@ -10,7 +10,7 @@ To build the project from soup to nuts (including installing the `dotnet` templa
 
 - Clone down the repo
 - In the cloned directory, navigate to ~\DotNetCoreAndVueCli\VueCLICore\clientapp and run `npm install`.
-- You can now run the project from either IIS in Visual Studio or with `npm run serve` in the same directory.
+- You can now run the project from either IIS in Visual Studio (to initialize the backend) or with `npm run serve` in the same directory (for just the frontend).
 
 _These build instructions are subject to change as more dependencies are added or removed from the project._
 
